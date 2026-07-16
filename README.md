@@ -1,4 +1,4 @@
-<div align="center">
+﻿<div align="center">
   <img src="./banner-sky.jpg" width="100%" alt="Makoto Shinkai clear sky" />
 </div>
 
